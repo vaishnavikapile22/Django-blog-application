@@ -53,7 +53,7 @@ Request Body:
 }
 
 #output
-![Screenshot (113)](https://github.com/user-attachments/assets/8f1201fa-448e-4928-a18f-94a7b491f821)
+![Screenshot (113)](https://github.com/user-attachments/assets/ed75c0d1-36f2-4bc3-99a1-da204770fb65)
 
 
 *Obtain Token
@@ -70,7 +70,8 @@ Body:
 
 #output
 
-![Screenshot (114)](https://github.com/user-attachments/assets/3522e8a8-a2e6-4cf5-97fd-bd4e84426b1e)
+![Screenshot (114)](https://github.com/user-attachments/assets/499b3067-7ccd-4cc5-8be9-a1503616b557)
+
 
 
 *Refresh Token
@@ -87,7 +88,7 @@ Body:
 #output
 
 
-![Screenshot (122)](https://github.com/user-attachments/assets/8b404416-d5c5-469e-8a46-f101456d6e11)
+![Screenshot (122)](https://github.com/user-attachments/assets/84a3be0b-3c27-4800-82fa-fb1479d07777)
 
 
 *List
@@ -97,7 +98,7 @@ URL: /api/posts/
 Method: GET to list
 
 #output
-![Screenshot (115)](https://github.com/user-attachments/assets/fb8ea267-12ba-49e2-b584-f1e0762d3b7e)
+![Screenshot (115)](https://github.com/user-attachments/assets/9e8cf4e0-cb2b-4571-9cc3-4cba68dc7275)
 
 
 *Create Posts
@@ -117,7 +118,9 @@ Body:
 #output
 
 
-![Screenshot (123)](https://github.com/user-attachments/assets/364505c3-827a-472f-a4e5-56e935e04c59)
+![Screenshot (123)](https://github.com/user-attachments/assets/2f0b47d4-ccff-40e5-9416-a9c8841220e5)
+
+
 
 
 *Retrieve
@@ -130,7 +133,7 @@ method : GET
 
 #output
 
-![Screenshot (117)](https://github.com/user-attachments/assets/8ae2da38-e781-4087-8107-78e7621fe9ea)
+![Screenshot (117)](https://github.com/user-attachments/assets/3cf631b1-974c-452e-86dd-731718ae465a)
 
 
 *UPDATE
@@ -150,7 +153,10 @@ method : PUT
 
 
  #output
-![Screenshot (118)](https://github.com/user-attachments/assets/218e386d-61e7-4523-ae43-2fc90850956b)
+
+![Screenshot (118)](https://github.com/user-attachments/assets/b782b738-cfc6-4603-aadc-6045111ebf7a)
+
+
 
 
  *DELETE
@@ -163,7 +169,7 @@ method : DELETE
 
  #output
 
-![Screenshot (121)](https://github.com/user-attachments/assets/31278791-2d27-4163-8ff9-e1041631d2ad)
+![Screenshot (121)](https://github.com/user-attachments/assets/4c693edc-ed94-4c52-9294-a2f379eecc83)
 
 
 
@@ -178,7 +184,8 @@ method : post
  Authorization: OAuth2.0: Bearer <your_access_token>
 
  #output
-![Screenshot (119)](https://github.com/user-attachments/assets/a1862b06-5096-4c8b-80e7-3302608aa4e5)
+![Screenshot (119)](https://github.com/user-attachments/assets/f66ea12e-c6b5-4859-b649-cf4d8fa574ef)
+
 
 
 *Retrive single comments
@@ -196,7 +203,7 @@ method : post
 
  #output
 
-![Screenshot (120)](https://github.com/user-attachments/assets/b2d1d210-eb71-4751-94f1-860c23a1f920)
+![Screenshot (120)](https://github.com/user-attachments/assets/909ce8a0-472a-411b-b2b6-8cbad6408c10)
 
 
 *Update comments
